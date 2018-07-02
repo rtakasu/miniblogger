@@ -1,0 +1,10 @@
+MANIFEST.in
+miniblogger/__init__.py
+miniblogger/miniblogger.py
+miniblogger/schema.sql
+miniblogger.egg-info/PKG-INFO
+miniblogger.egg-info/SOURCES.txt
+miniblogger.egg-info/dependency_links.txt
+miniblogger.egg-info/requires.txt
+miniblogger.egg-info/top_level.txt
+miniblogger/static/index.html
