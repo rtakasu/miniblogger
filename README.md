@@ -1,5 +1,8 @@
 # miniblogger
-Flask App on Bluemix Cloud
+Flask App on AWS
+
+Todo: 
+- Change name from miniblogger to footy_api. For some reason if I just change the name python refuses to do a relative import.
 
 API:
 GET /entries:
